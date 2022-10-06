@@ -1,9 +1,9 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/islamusama00/">Islam Usama!</a></h1>
 <h3 align="center">I’m a Software Engineer and Co-Founder of <a href="https://impulses-corp.com">Impulses Corp</a></h3>
 
-- 🗿 &ensp;I’m currently working on <a href="https://home.impulses-corp.com">Smart Home Project</a>
+- ✨ &ensp;I’m currently working on <a href="https://home.impulses-corp.com">Smart Home Project</a>
 - 🌱 &ensp;I’m currently learning Flutter ❤️
-- ⚡ &ensp;Fun fact: I love cats
+- ⚡ &ensp;Problem Solver 🤞
 - 📫 &ensp;How to reach me: [**Email**][email]
 
 ### Connect With Me
@@ -31,6 +31,7 @@
 <img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" />
 <img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" />
 <img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
 
 
 [website]: https://islamusama.com/
