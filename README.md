@@ -2,7 +2,6 @@
 <h3 align="center">I’m a Software Engineer and Co-Founder of <a href="https://impulses-corp.com">Impulses Corp</a></h3>
 
 - ✨ &ensp;I’m currently working on <a href="https://home.impulses-corp.com">Smart Home Project</a>
-- 🌱 &ensp;I’m currently learning Flutter ❤️
 - ⚡ &ensp;Problem Solver 🤞
 - 📫 &ensp;How to reach me: [**Email**][email]
 
