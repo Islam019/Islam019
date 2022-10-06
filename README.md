@@ -25,10 +25,10 @@
 [<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 
 
-[website]: https://islamusama.com
-[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke
+[website]: https://islamusama.com/
+[twitter]: https://twitter.com/islamusama00/
 [linkedin]: https://www.linkedin.com/in/islamusama00/
-[github]: https://github.com/Islam019
-[instagram]: https://www.instagram.com/islamusama00
-[facebook]: https://www.facebook.com/islamusama00
+[github]: https://github.com/Islam019/
+[instagram]: https://www.instagram.com/islamusama00/
+[facebook]: https://www.facebook.com/islamusama00/
 [email]: mailto:islamusama56@gmail.com
