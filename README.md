@@ -1,11 +1,6 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/islamusama00/">Islam Usama!</a></h1>
 <h3 align="center">I’m a Software Engineer and Co-Founder of <a href="https://impulses-corp.com">Impulses Corp</a></h3>
 
-[![Youtube](https://img.shields.io/static/v1?label=JohannesMilke&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
-[![Twitter Follow](https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
-[![GitHub followers](https://img.shields.io/github/followers/JohannesMilke?logo=GitHub&style=for-the-badge)][github]
-[![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/JohannesMilke/)][linkedin]
-
 - 🔭 &ensp;I’m currently working on [**Youtube**][youtube]!
 - 🌱 &ensp;I’m currently learning Flutter ❤️
 - 👯 &ensp;I’m looking to collaborate with other content creators
