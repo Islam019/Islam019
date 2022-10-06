@@ -19,12 +19,41 @@
 [<img align="left" alt="Johannes Milke | Facebook" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" />][facebook]
 [<img align="left" alt="Johannes Milke | Medium" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fmedium.png?alt=media" />][medium] -->
 
-
 <br />
 <br />
 
-### Languages and Tools
-[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][youtube]
-[<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][youtube]
-[<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][youtube]
-[<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
+---
+
+### 📺 &ensp;Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [FlutterFlow - Build Apps using Low-Code](https://www.youtube.com/watch?v=HO02BUzDZ7c)
+- [4 TOP Trends for Flutter Designs](https://www.youtube.com/watch?v=VRTMapt2I7c)
+- [Clean Flutter Code with Linting](https://www.youtube.com/watch?v=Ry8apjTfxpE)
+- [Flutter Slidable in ListView](https://www.youtube.com/watch?v=81nbfr37oxg)
+- [Top 10 Widgets every Flutter Developer should know!](https://www.youtube.com/watch?v=2Dg_5CSWYB4)
+<!-- YOUTUBE:END -->
+
+➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
+
+---
+
+### 📚 &ensp;Latest Medium Articles
+
+<!-- BLOG-POST-LIST:START -->
+- [Chip widget: Material Design with Flutter](https://medium.com/flutter-community/chip-widget-material-design-with-flutter-4a834553c9ab?source=rss-1d0dd7b62afc------2)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ &ensp;[More Articles...](https://medium.com/@JohannesMilke)
+
+
+
+[website]: https://johannesmilke.com
+[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke
+[youtube]: https://www.youtube.com/JohannesMilke?sub_confirmation=1
+[linkedin]: https://linkedin.com/in/JohannesMilke
+[github]: https://github.com/JohannesMilke
+[instagram]: https://www.instagram.com/johannesmilke
+[facebook]: https://www.facebook.com/real.JohannesMilke
+[medium]: https://medium.com/@JohannesMilke
+[email]: mailto:hello@johannesmilke.com
