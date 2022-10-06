@@ -1,16 +1,18 @@
-### Hi there 👋
+Hi 👋, I'm Johannes Milke!
+A Flutter programmer who keeps you alive 😜
+Youtube Twitter Follow GitHub followers Linkedin: JohannesMilke
 
-<!--
-**Islam019/Islam019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭  I’m currently working on Youtube!
+🌱  I’m currently learning Flutter ❤️
+👯  I’m looking to collaborate with other content creators
+🗿  I am one of the early adopters of Flutter, it has been more than 4 years
+⚡  Fun fact: I love reading & podcasts
+📫  How to reach me: Twitter or Email
+Connect With Me
+Johannes Milke | WebsiteJohannes Milke | YouTubeJohannes Milke | TwitterJohannes Milke | LinkedIn
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Languages and Tools
+“Flutter”“Firebase”“Dart”“Github”
+
