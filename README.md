@@ -1,12 +1,10 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/islamusama00/">Islam Usama!</a></h1>
 <h3 align="center">I’m a Software Engineer and Co-Founder of <a href="https://impulses-corp.com">Impulses Corp</a></h3>
 
-- 🔭 &ensp;I’m currently working on [**Youtube**][youtube]!
+- 🗿 &ensp;I’m currently working on <a href="https://home.impulses-corp.com">Smart Home Project</a>
 - 🌱 &ensp;I’m currently learning Flutter ❤️
-- 👯 &ensp;I’m looking to collaborate with other content creators
-- 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 4 years
-- ⚡ &ensp;Fun fact: I love reading & podcasts
-- 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
+- ⚡ &ensp;Fun fact: I love cats
+- 📫 &ensp;How to reach me: [**Email**][email]
 
 ### Connect With Me
 
