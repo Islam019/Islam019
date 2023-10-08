@@ -31,7 +31,7 @@
 <img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" />
 
 <img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
-<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
+<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" />
 
 <img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
