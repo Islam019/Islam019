@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/islamusama00/">Islam Usama!</a></h1>
-<h3 align="center">I’m a Software Engineer and Co-Founder of <a href="https://impulses-corp.com">Impulses</a></h3>
+<h3 align="center">I’m a Software Engineer and Co-Founder of <a href="https://impulses.ai">Impulses</a></h3>
 
 - ✨ &ensp;I’m currently working on <a href="https://impulses.ai">Smart Home Project</a>
 - ⚡ &ensp;Problem Solver 🤞
@@ -33,7 +33,6 @@
 <img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
 
 
-### [website]: https://islamusama.com/
 [twitter]: https://twitter.com/islamusama00/
 [linkedin]: https://www.linkedin.com/in/islamusama00/
 [github]: https://github.com/Islam019/
