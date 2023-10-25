@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/islamusama00/">Islam Usama!</a></h1>
-<h3 align="center">I’m a Software Engineer and Co-Founder of <a href="https://impulses.ai">Impulses</a></h3>
+<h3 align="center">I’m a Software Engineer and tech lead at <a href="https://impulses.ai">Impulses</a></h3>
 
 - ✨ &ensp;I’m currently working on <a href="https://impulses.ai">Smart Home Project</a>
 - ⚡ &ensp;Problem Solver 🤞
